@@ -23,9 +23,4 @@ def somaPares(numeros):
 numeros = [] 
 sorteia(numeros)
 somaPares(numeros)
-            
-    
-
-
-
-#somaPares(numeros)
+        
